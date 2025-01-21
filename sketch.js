@@ -8,5 +8,8 @@ function draw() {
   ellipse(mouseX, mouseY, 50, 50);
 
   ellipse(
+
+    bezier()
+    quadraticVertex();
   
 }
